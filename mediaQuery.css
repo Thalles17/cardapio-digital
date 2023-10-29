@@ -1,0 +1,5 @@
+@media(max-width: 30rem){
+    .nav-main, .nav-main a{
+        display: none;
+    }
+}
